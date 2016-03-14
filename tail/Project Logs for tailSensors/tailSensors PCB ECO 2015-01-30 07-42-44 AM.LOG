@@ -1,0 +1,24 @@
+Added Component: Designator=D1(3.2X1.6X1.1)
+Added Component: Designator=D2(3.2X1.6X1.1)
+Added Component: Designator=D3(3.2X1.6X1.1)
+Added Component: Designator=R4(J1-0603)
+Added Component: Designator=R5(J1-0603)
+Added Component: Designator=R6(J1-0603)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=Net*_14 Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=Net*_14 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=Net*_14 Pin=D3-2
+Added Pin To Net: NetName=NetD1_1 Pin=R4-1
+Added Pin To Net: NetName=Net*_10 Pin=R4-2
+Added Pin To Net: NetName=NetD2_1 Pin=R5-1
+Added Pin To Net: NetName=Net*_11 Pin=R5-2
+Added Pin To Net: NetName=NetD3_1 Pin=R6-1
+Added Pin To Net: NetName=Net*_12 Pin=R6-2
+Added Member To Class: ClassName=tailSensors Member=Component D1 LED2
+Added Member To Class: ClassName=tailSensors Member=Component D2 LED2
+Added Member To Class: ClassName=tailSensors Member=Component D3 LED2
+Added Member To Class: ClassName=tailSensors Member=Component R4 Res3
+Added Member To Class: ClassName=tailSensors Member=Component R5 Res3
+Added Member To Class: ClassName=tailSensors Member=Component R6 Res3
