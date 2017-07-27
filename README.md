@@ -1,4 +1,2 @@
 # INEMO-development-board
-The development board developed for undergraduate students. Version two was a wireless IMU sensor node that was used in my MSc.
-
-used an INEMO M1 and a Nordic NRF24L01 chip
+The development board for Callen's MSc has been adapted for undergraduate students (and other projects). LIDAR setup and reading has been commented out so it will compile and run without the LIDAR connected. Just grab an STM32F4 to use the ST-LINK debugger hardware, and provide the iNEMO with 5V, GND, and the SWD connector.
