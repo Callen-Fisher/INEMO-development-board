@@ -1,0 +1,4 @@
+ADC.c:15:6:setUpADC	32	static
+ADC.c:106:6:readADCdma	32	static
+ADC.c:129:6:readADC_motorCurrent	24	static
+ADC.c:133:6:DMA1_Channel1_IRQHandler	8	static

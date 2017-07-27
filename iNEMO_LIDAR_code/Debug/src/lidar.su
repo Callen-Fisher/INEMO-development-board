@@ -1,0 +1,8 @@
+lidar.c:29:6:setUpLIDAR	24	static
+lidar.c:67:6:configureLIDAR	16	static
+lidar.c:118:6:resetLIDAR	8	static
+lidar.c:147:5:getDistanceLIDAR	24	static
+lidar.c:176:6:write	16	static
+lidar.c:209:6:read	48	static
+lidar.c:308:6:correlationRecordToSerial	32	static
+lidar.c:334:6:getLIDAR	4	static

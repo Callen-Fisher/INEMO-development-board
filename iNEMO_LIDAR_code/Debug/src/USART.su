@@ -1,0 +1,5 @@
+USART.c:14:6:setUpLoggerSDcard	32	static
+USART.c:48:6:setUpDMA1channel4	56	static
+USART.c:71:6:setUpUSART	32	static
+USART.c:96:6:sendUSART	24	static
+USART.c:106:10:receiveUSART	16	static

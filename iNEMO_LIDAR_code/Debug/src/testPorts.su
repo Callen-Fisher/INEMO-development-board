@@ -1,0 +1,4 @@
+testPorts.c:11:6:test	8	static
+testPorts.c:20:6:initGPIO	16	static
+testPorts.c:36:6:flash	8	static
+testPorts.c:83:6:del	16	static

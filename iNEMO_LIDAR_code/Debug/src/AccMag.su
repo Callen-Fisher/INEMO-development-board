@@ -1,0 +1,8 @@
+AccMag.c:14:6:setUpEcompass	8	static
+AccMag.c:20:6:initRegistersEcompass	8	static
+AccMag.c:130:6:eCompassRead	24	static
+AccMag.c:163:6:eCompassRead2	24	static
+AccMag.c:194:6:eCompassWrite	16	static
+AccMag.c:207:6:getAcc	40	static
+AccMag.c:258:6:getMag	40	static
+AccMag.c:353:5:twosCompToDec	24	static

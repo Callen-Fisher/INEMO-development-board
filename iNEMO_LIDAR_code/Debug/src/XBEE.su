@@ -1,0 +1,4 @@
+XBEE.c:12:6:setUpXbee	32	static
+XBEE.c:42:6:setUpDMA1channel7	56	static
+XBEE.c:64:6:sendXBEE	24	static
+XBEE.c:96:10:receiveXBEE	16	static

@@ -1,0 +1,2 @@
+pwm.c:9:6:setUpPWM	40	static
+pwm.c:49:6:setPWM	32	static

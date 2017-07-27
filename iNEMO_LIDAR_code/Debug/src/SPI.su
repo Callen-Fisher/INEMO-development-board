@@ -1,0 +1,2 @@
+SPI.c:18:6:initSPI	32	static
+SPI.c:57:9:writeSPI	24	static

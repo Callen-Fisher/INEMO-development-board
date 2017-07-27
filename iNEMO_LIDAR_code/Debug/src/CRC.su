@@ -1,0 +1,3 @@
+CRC.c:23:6:initCRC	8	static
+CRC.c:30:10:crcCalc	32	static
+CRC.c:54:13:buildTable	24	static

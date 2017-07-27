@@ -1,0 +1,4 @@
+controlLoopTimer.c:14:6:setUpLoopTimer	24	static
+controlLoopTimer.c:45:6:TIM2_IRQHandler	8	static
+controlLoopTimer.c:53:6:setUpEncoder	24	static
+controlLoopTimer.c:72:6:waitForEndTimerHz	4	static

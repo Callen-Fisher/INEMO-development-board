@@ -1,0 +1,8 @@
+gyro.c:12:6:setUpGyro	8	static
+gyro.c:17:6:initSPIgyro	32	static
+gyro.c:54:6:spiGyroRegisterSetup	8	static
+gyro.c:97:9:writeSPIgyro	24	static
+gyro.c:129:6:getGyro	48	static
+gyro.c:187:6:getTempCelsius	24	static
+gyro.c:192:5:twosCompToDec16	24	static
+gyro.c:247:4:twosCompToDec8	24	static

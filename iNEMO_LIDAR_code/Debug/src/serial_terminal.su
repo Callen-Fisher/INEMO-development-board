@@ -1,0 +1,2 @@
+serial_terminal.c:11:6:serialTerminal_Init	8	static
+serial_terminal.c:15:6:serialTerminal_packetize	112	static
